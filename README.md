@@ -1,3 +1,5 @@
+![TF2 Object Detection Inference](https://github.com/ibaiGorordo/tf2-object-detection-inference/blob/master/doc/img/Inference%20Output%20Example.gif)
+
 # TF2.0 Object Detection Inference
 Python program to perform object detection inference with Tensorflow 2.0.
 
